@@ -1,1 +1,13 @@
-size(600,600);
+size(800,800);
+fill(255, 255, 255, 128);
+ellipse (400, 400, 333, 333);
+fill(31, 17, 157, 128);
+ellipse (300, 200, 333, 333);
+fill(157, 17, 17, 128);
+ellipse (500, 200, 333, 333);
+text("Protective with Family&Friends", 333, 400);
+text("Nice", 260, 200);
+text("Anger Issues", 500, 200);
+fill(0, 255, 255, 128);
+text("Gets angry very fast", 333, 200);
+text("while trying to be nice", 333, 210);
